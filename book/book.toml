@@ -1,0 +1,6 @@
+[book]
+authors = ["Nick Anthony Flückiger"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Phoenix Cheatsheet"
